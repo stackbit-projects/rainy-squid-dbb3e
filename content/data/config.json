@@ -11,7 +11,7 @@
             {
                 "label": "Tuto",
                 "url": "/",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Features",
