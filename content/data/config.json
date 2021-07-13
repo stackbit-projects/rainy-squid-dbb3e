@@ -12,7 +12,8 @@
                 "label": "Tuto",
                 "url": "/",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "arrow-right"
             },
             {
                 "label": "Features",
