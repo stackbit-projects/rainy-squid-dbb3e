@@ -1,7 +1,7 @@
 {
     "title": "Cryptouf",
     "path_prefix": "/",
-    "base_font": "system-sans",
+    "base_font": "nunito-sans",
     "palette": "purple",
     "header": {
         "logo_img": "/images/magical-neptune.png",
